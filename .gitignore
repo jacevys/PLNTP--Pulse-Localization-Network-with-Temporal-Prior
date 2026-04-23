@@ -1,0 +1,27 @@
+# LaTeX 編譯產生的中間檔
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.ps
+
+# 編譯輸出（PDF 如需版控可移除這行）
+*.pdf
+
+# macOS
+.DS_Store
+
+# 暫存圖片
+temp.png
