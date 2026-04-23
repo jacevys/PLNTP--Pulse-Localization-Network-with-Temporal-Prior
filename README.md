@@ -80,6 +80,14 @@ This repository contains the manuscript source and figures for personal academic
 
 ---
 
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt this work for any purpose, provided appropriate credit is given to the original authors.
+
+---
+
 ## Citation
 
 If you find this work useful, please consider citing:
