@@ -17,8 +17,8 @@
 *.dvi
 *.ps
 
-# 編譯輸出（PDF 如需版控可移除這行）
-*.pdf
+# 編譯輸出
+# *.pdf  ← 開放 PDF 版控
 
 # macOS
 .DS_Store
